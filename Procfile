@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True 3D_Plots.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=global_3d_to_2d.ipynb
